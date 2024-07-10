@@ -1,0 +1,3 @@
+Percent of deepseekcode win: 10%
+Percent of gigacode win: 75%
+Percent of user win: 15%

@@ -1,0 +1,80 @@
+Task name: deepseekcode/1. Two Sum (Easy)
+Total chars count: 154
+Task name: deepseekcode/2. Add Two Numbers (Medium)
+Total chars count: 419
+Task name: deepseekcode/3. Longest Substring Without Repeating Characters (Medium)
+Total chars count: 327
+Task name: deepseekcode/4. Median of Two Sorted Arrays (Hard)
+Total chars count: 656
+Task name: deepseekcode/5. Longest Palindromic Substring (Medium)
+Total chars count: 414
+Task name: deepseekcode/6. Zigzag Conversion (Medium)
+Total chars count: 287
+Task name: deepseekcode/7. Reverse Integer (Medium)
+Total chars count: 301
+Task name: deepseekcode/8. String to Integer (atoi) (Medium)
+Total chars count: 375
+Task name: deepseekcode/9. Palindrome Number (Easy)
+Total chars count: 84
+Task name: deepseekcode/10. Regular Expression Matching (Hard)
+Total chars count: 356
+Task name: deepseekcode/11. Container With Most Water (Medium)
+Total chars count: 259
+Task name: deepseekcode/12. Integer to Roman (Medium)
+Total chars count: 281
+Task name: deepseekcode/13. Roman to Integer (Easy)
+Total chars count: 285
+Task name: deepseekcode/14. Longest Common Prefix (Easy)
+Total chars count: 241
+Task name: deepseekcode/15. 3Sum (Medium)
+Total chars count: 436
+Task name: deepseekcode/16. 3Sum Closest (Medium)
+Total chars count: 380
+Task name: deepseekcode/17. Letter Combinations of a Phone Number (Medium)
+Total chars count: 470
+Task name: deepseekcode/18. 4Sum (Medium)
+Total chars count: 531
+Task name: deepseekcode/19. Remove Nth Node From End of List (Medium)
+Total chars count: 276
+Task name: deepseekcode/20. Valid Parentheses (Easy)
+Total chars count: 267
+Task name: deepseekcode/1. Two Sum (Easy)
+Total chars count: 154
+Task name: deepseekcode/2. Add Two Numbers (Medium)
+Total chars count: 419
+Task name: deepseekcode/3. Longest Substring Without Repeating Characters (Medium)
+Total chars count: 327
+Task name: deepseekcode/4. Median of Two Sorted Arrays (Hard)
+Total chars count: 656
+Task name: deepseekcode/5. Longest Palindromic Substring (Medium)
+Total chars count: 414
+Task name: deepseekcode/6. Zigzag Conversion (Medium)
+Total chars count: 287
+Task name: deepseekcode/7. Reverse Integer (Medium)
+Total chars count: 301
+Task name: deepseekcode/8. String to Integer (atoi) (Medium)
+Total chars count: 375
+Task name: deepseekcode/9. Palindrome Number (Easy)
+Total chars count: 84
+Task name: deepseekcode/10. Regular Expression Matching (Hard)
+Total chars count: 356
+Task name: deepseekcode/11. Container With Most Water (Medium)
+Total chars count: 259
+Task name: deepseekcode/12. Integer to Roman (Medium)
+Total chars count: 281
+Task name: deepseekcode/13. Roman to Integer (Easy)
+Total chars count: 285
+Task name: deepseekcode/14. Longest Common Prefix (Easy)
+Total chars count: 241
+Task name: deepseekcode/15. 3Sum (Medium)
+Total chars count: 436
+Task name: deepseekcode/16. 3Sum Closest (Medium)
+Total chars count: 380
+Task name: deepseekcode/17. Letter Combinations of a Phone Number (Medium)
+Total chars count: 470
+Task name: deepseekcode/18. 4Sum (Medium)
+Total chars count: 531
+Task name: deepseekcode/19. Remove Nth Node From End of List (Medium)
+Total chars count: 276
+Task name: deepseekcode/20. Valid Parentheses (Easy)
+Total chars count: 267

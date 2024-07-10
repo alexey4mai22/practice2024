@@ -1,0 +1,40 @@
+Task name: gigacode/1. Two Sum (Easy)
+Total chars count: 179
+Task name: gigacode/2. Add Two Numbers (Medium)
+Total chars count: 317
+Task name: gigacode/3. Longest Substring Without Repeating Characters (Medium)
+Total chars count: 233
+Task name: gigacode/4. Median of Two Sorted Arrays (Hard)
+Total chars count: 520
+Task name: gigacode/5. Longest Palindromic Substring (Medium)
+Total chars count: 281
+Task name: gigacode/6. Zigzag Conversion (Medium)
+Total chars count: 211
+Task name: gigacode/7. Reverse Integer (Medium)
+Total chars count: 227
+Task name: gigacode/8. String to Integer (atoi) (Medium)
+Total chars count: 302
+Task name: gigacode/9. Palindrome Number (Easy)
+Total chars count: 196
+Task name: gigacode/10. Regular Expression Matching (Hard)
+Total chars count: 285
+Task name: gigacode/11. Container With Most Water (Medium)
+Total chars count: 230
+Task name: gigacode/12. Integer to Roman (Medium)
+Total chars count: 246
+Task name: gigacode/13. Roman to Integer (Easy)
+Total chars count: 226
+Task name: gigacode/14. Longest Common Prefix (Easy)
+Total chars count: 164
+Task name: gigacode/15. 3Sum (Medium)
+Total chars count: 381
+Task name: gigacode/16. 3Sum Closest (Medium)
+Total chars count: 288
+Task name: gigacode/17. Letter Combinations of a Phone Number (Medium)
+Total chars count: 269
+Task name: gigacode/18. 4Sum (Medium)
+Total chars count: 459
+Task name: gigacode/19. Remove Nth Node From End of List (Medium)
+Total chars count: 230
+Task name: gigacode/20. Valid Parentheses (Easy)
+Total chars count: 209

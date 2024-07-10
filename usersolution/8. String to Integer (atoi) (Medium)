@@ -1,0 +1,38 @@
+class Solution(object):
+    def myAtoi(self, s):
+        num = '0123456789'
+        res = ''
+        for x in s:
+            if x == ' ' and len(res) == 0:
+                continue
+            if x != ' ' and (x in '-+' or x in num) and len(res) == 0:
+                res += x
+            elif x in num:
+                res += x
+            else:
+                break
+        if res == '' or res in '-+':
+            return 0
+        else:
+            # Remove the sign from the string and store separately
+            sign = 1
+            if res[0] in '-+':
+                sign = -1 if res[0] == '-' else 1
+                res = res[1:]
+
+            # Convert the numeric string to integer manually
+            def str_to_int(num_str):
+                result = 0
+                for char in num_str:
+                    result = result * 10 + (ord(char) - ord('0'))
+                return result
+
+            num_val = str_to_int(res) * sign
+
+            INT_MIN, INT_MAX = -(2**31), 2**31 - 1
+            if num_val < INT_MIN:
+                return INT_MIN
+            elif num_val > INT_MAX:
+                return INT_MAX
+            else:
+                return num_val

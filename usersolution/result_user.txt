@@ -1,0 +1,40 @@
+Task name: usersolution/1. Two Sum (Easy)
+Total chars count: 159
+Task name: usersolution/2. Add Two Numbers (Medium)
+Total chars count: 431
+Task name: usersolution/3. Longest Substring Without Repeating Characters (Medium)
+Total chars count: 291
+Task name: usersolution/4. Median of Two Sorted Arrays (Hard)
+Total chars count: 511
+Task name: usersolution/5. Longest Palindromic Substring (Medium)
+Total chars count: 389
+Task name: usersolution/6. Zigzag Conversion (Medium)
+Total chars count: 267
+Task name: usersolution/7. Reverse Integer (Medium)
+Total chars count: 149
+Task name: usersolution/8. String to Integer (atoi) (Medium)
+Total chars count: 504
+Task name: usersolution/9. Palindrome Number (Easy)
+Total chars count: 208
+Task name: usersolution/10. Regular Expression Matching (Hard)
+Total chars count: 728
+Task name: usersolution/11. Container With Most Water (Medium)
+Total chars count: 253
+Task name: usersolution/12. Integer to Roman (Medium)
+Total chars count: 318
+Task name: usersolution/13. Roman to Integer (Easy)
+Total chars count: 305
+Task name: usersolution/14. Longest Common Prefix (Easy)
+Total chars count: 197
+Task name: usersolution/15. 3Sum (Medium)
+Total chars count: 399
+Task name: usersolution/16. 3Sum Closest (Medium)
+Total chars count: 424
+Task name: usersolution/17. Letter Combinations of a Phone Number (Medium)
+Total chars count: 351
+Task name: usersolution/18. 4Sum (Medium)
+Total chars count: 339
+Task name: usersolution/19. Remove Nth Node From End of List (Medium)
+Total chars count: 276
+Task name: usersolution/20. Valid Parentheses (Easy)
+Total chars count: 219
